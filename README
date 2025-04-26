@@ -1,0 +1,57 @@
+# 📺 Franky Fernandez — Portfolio Website
+
+![Portfolio Screenshot](assets/screenshots/watchtime-1.png)
+
+---
+
+## 🚀 About
+
+Welcome to my portfolio!  
+Built from scratch with SwiftUI vibes, glitch animations, and backend power.
+
+This site showcases my iOS + Full Stack projects including:
+- 📺 Watchtime Analyzer (Node.js + SwiftUI app)
+- 📈 Streaming JSON processing
+- ⚡ Backend auto-deployment with GitHub Actions + Render
+
+---
+
+## 🌍 Live Website
+
+[🔗 Click here to visit my live portfolio!](https://frankyfurt101.github.io/franky-portfolio/)
+
+---
+
+## 🛠 Technologies Used
+
+- HTML5 / CSS3
+- GitHub Pages Hosting
+- Node.js (Backend for apps)
+- SwiftUI (iOS apps)
+- GitHub Actions (for CI/CD)
+- Render.com (Backend Deployment)
+
+---
+
+## 📸 Projects Showcased
+
+| Project | Description | Links |
+|:--------|:------------|:------|
+| Watchtime Analyzer | View and visualize your YouTube history like a boss. | [GitHub Repo](https://github.com/frankyfurt101/watchtime-api) / [Live API](https://watchtime-api-ndt4.onrender.com/summary) |
+
+---
+
+## 📬 Contact
+
+Want to collaborate or chat?  
+Email me at: **franky@example.com** (update with your real email later!)
+
+---
+
+## 🧾 License
+
+This project is licensed under the MIT License — free to use, modify, and share!
+
+---
+
+> Built with 💙 by Franky Fernandez
